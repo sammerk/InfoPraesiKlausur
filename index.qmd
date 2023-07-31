@@ -7,7 +7,7 @@ format:
     slide-number: true
     controls: true
     theme: [dark, css/custom.scss]
-    footer: "Diese Folien: https://bit.ly/merk107"
+    footer: "Diese Folien: https://bit.ly/merk108"
 ---
 
 ## Herzlich Willkommen 🤗!
