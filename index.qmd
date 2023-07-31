@@ -11,8 +11,6 @@ format:
 ---
 
 ## Herzlich Willkommen 🤗!
-> In diesen Folien werden Ihnen alle relevanten Informationen zur Klausur angezeigt
-
 
 ::: {.callout-note}
 
