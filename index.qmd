@@ -66,5 +66,5 @@ Lassen Sie also Mails, Chats, etc. geschlossen.
 
 ::: {.callout-caution icon=true}
 ## Was passiert wenn Sie cheaten?
-Um keine Störungen zu verursachen dokumentieren wir den Täuschungsversuch "still" über Ihr Platzkärtchen und verbuchen anschließend Ihre Studienleistung als nicht bestanden (dieses Vorgehen ist rechtssicher).
+Um keine Störungen zu verursachen dokumentieren wir den Täuschungsversuch "still" über Ihr Platzkärtchen und verbuchen anschließend Ihre Leistung als nicht bestanden (dieses Vorgehen ist rechtssicher).
 :::
