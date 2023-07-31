@@ -19,7 +19,8 @@ format:
 <br>
 
 ::: {.callout-note}
-## Wer soll wo hin?
+
+## Wer soll wo hin? {.smaller}
 * PO18 —> KIT Audimax
 * PO22 
     * Nachname Aa - Fre —> PHKA 1.013
