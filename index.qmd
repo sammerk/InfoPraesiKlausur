@@ -38,7 +38,7 @@ close(fileConn)
 
 ## Wie läuft die Klausur ab? {.smaller}
 1) Sie kommen nach vorne und lassen Ihren Studierendenausweis kontrollieren und bekommen ein Nummernkärtchen
-2) Sie besetzen jeden dritten Sitz in Ihrem Hörsaal (am Besten in der Mitte beginnen und nach außen auffüllen)
+2) Sie besetzen jeden zweiten Sitz in Ihrem Hörsaal (am Besten in der Mitte beginnen und nach außen auffüllen)
 3) Sie stellen/legen Ihr Nummernkärtchen neben sich auf
 4) Sie legen Ihren Studierendenausweis neben sich auf den Tisch
 5) Sie schreiben sich in den für Sie zutreffenden moodle-Kurs ein
