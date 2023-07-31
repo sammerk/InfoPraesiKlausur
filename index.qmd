@@ -14,10 +14,6 @@ format:
 > In diesen Folien werden Ihnen alle relevanten Informationen zur Klausur angezeigt
 
 
-. . .
-
-<br>
-
 ::: {.callout-note}
 
 ## Wer soll wo hin? {.smaller}
