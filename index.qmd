@@ -42,8 +42,8 @@ close(fileConn)
 3) Sie stellen/legen Ihr Nummernkärtchen neben sich auf
 4) Sie legen Ihren Studierendenausweis neben sich auf den Tisch
 5) Sie schreiben sich in den für Sie zutreffenden moodle-Kurs ein
-    * Klausur Psych/FoMe SoSe 23 - Ort: PHKA
-    * Klausur Psych/FoMe SoSe 23 - Ort: KIT
+    * Gebäude: PHKA - https://bit.ly/merk109
+    * Gebäude: KIT - https://bit.ly/merk110
 6) Sie rufen die für Sie richtige Klausur auf    
 7) Sie beantworten alle Fragen richtig 😉
 8) Fragen können wir leider nur nach der Klausur beantworten
