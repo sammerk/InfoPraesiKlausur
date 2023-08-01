@@ -19,7 +19,7 @@ format:
 * PO22 
     * Nachname Aa - Fre —> PHKA 1.013
     * Nachname Fri - Hög —> PHKA 1.103
-    * Nachname Hör - Mau —> PHKA 1.113
+    * Nachname Höl - Mau —> PHKA 1.113
     * Nachname May - Rus —> PHKA 1.203
     * Nachname Sah - Zz —> KIT Audimax
 :::
