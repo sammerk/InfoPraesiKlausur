@@ -47,7 +47,7 @@ close(fileConn)
 6) Sie rufen die für Sie richtige Klausur auf    
 7) Sie beantworten alle Fragen richtig 😉
 8) Fragen können wir leider nur nach der Klausur beantworten
-9) Bitte alle der Fairness halber bis 19:15 sitzen bleiben
+9) Bitte alle der Fairness halber bis 16:30 sitzen bleiben
 
 ## 
 ::: {.callout-note icon=false}
